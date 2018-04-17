@@ -1,0 +1,176 @@
+#wrapper{
+	background:rgb(20,20,20);
+	font-family: Georgia;
+}
+
+.navbar-brand  {
+    margin-right:10px; 
+    font-size: 24px;
+    font-weight: bold;
+    box-shadow: -2px -3px 15px rgba(100,0,0,.4) inset;
+    background: -webkit-linear-gradient(#500,red);
+    background: -moz-linear-gradient(#500,red);
+}
+#form_id{
+	border: 1px solid rgb(0,0,0);
+	padding:15px;
+	border-radius: 7px;
+	background:rgb(0,60,40);
+	box-shadow:3px 3px 5px black;
+}
+#change_pass_form_id{
+	border: 1px solid rgb(0,0,0);
+	padding:15px;
+	border-radius: 7px;
+	background:rgba(0,0,0,.3);
+	box-shadow:3px 3px 5px black;
+}
+.form-control {
+	background:rgba(0,0,0,.5);
+	color:white;
+	font-size:18px;
+	padding:5px;
+	border-radius: 0px;
+   
+	
+}
+
+label{
+	display:block;
+	
+	font-weight:bold;
+	margin-right:10px;
+	text-align:left;
+	width:40%;
+	line-height:30px;
+	font-size:20px;
+	font-family:Georgia;
+	color:white;
+	text-shadow:1px 1px 3px #080808;
+}
+#button_id{
+	width:80px;
+	height:40px;
+	background-color:rgb(20,25,20);
+	font-size:20px;
+	font-family:Georgia;
+	color:rgb(20,120,120);
+	padding:5px;
+	box-shadow: 2px 2px 3px #222;
+	
+}
+
+#login_header{
+	color: #fff;
+	text-shadow:2px 2px 5px #333;
+	font-family:Georgia;
+}
+
+#main_section{
+	background-image:url("pic/5.jpg");
+	
+}
+
+#login_box{
+	margin-top:20px;
+}
+
+#general_msg{
+	margin:20px;
+	font-size:30px;
+	color:rgb(150,20,20);
+	font-weight: bold;
+	text-shadow:5px 5px 10px rgb(20,20,20);
+    font-family: Georgia;
+}
+
+h6{
+	font-size:30px;
+	color:green;
+}
+#form_box{
+	border: 4px solid rgb(255,255,255);
+	border-style: ridge;
+	padding: 10px;
+}
+
+#logo_image{
+	box-shadow: 2px 2px 3px #222;
+	border: 2px solid rgb(70,0,0);
+	border-radius: 5px;
+	
+}
+#home_login{
+	
+	background-color:rgba(20,20,20,1);
+	border: 2px solid white;
+	border-radius: 4px;
+	box-shadow:2px 2px 4px #000;
+	padding:20px;
+}
+
+#home_sellRent{
+	background:rgb(10,50,20);
+	border: 2px solid white;
+	border-radius: 4px;
+	box-shadow:2px 2px 4px #000;
+	padding:20px;
+}
+
+#home_user{
+	background:rgb(140,10,14);
+	border: 2px solid white;
+	border-radius: 4px;
+	box-shadow:2px 2px 4px #000;
+	padding:20px;
+}
+
+h4{
+	font-size:30px;
+	font-family: Georgia;
+	color:white;
+	margin:10px;
+}
+h5{
+	font-size:26px;
+	font-family: Georgia;
+	color:rgb(250,250,150);
+	margin:10px;
+}
+
+#home_common_para{
+	color:rgb(0,124,140);
+	font-size:24px;
+	font-family:Georgia;
+	
+}
+
+#home_login_column{
+	
+	font-size:24px;
+	color:#FFFFFF;
+	font-weight:bold;
+	font-family:Georgia;
+}
+
+#site_header{
+  	background:rgb(140,10,14);
+  	}
+  	
+table td:nth-child(odd){
+	font-size:20px;
+	color:rgb(0,170,150);
+}
+table td:nth-child(even){
+	font-size:20px;
+	color:#ccc;
+}
+
+.error{
+	
+	color:white;
+	width:auto;
+	font-size:20px;
+	padding:10px;
+}
+

@@ -1,0 +1,21 @@
+#room_important{
+	background:rgb(20,150,150);
+	padding:15px;
+	margin-bottom: 5px;
+}
+
+#room_important_inner{
+	background:rgba(0,0,0,.7);
+	padding:10px;
+}
+
+label{
+	width: 160px;
+
+}
+
+label p{
+		color:white;
+		margin-left:20px;
+}
+

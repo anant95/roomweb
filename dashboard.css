@@ -1,0 +1,52 @@
+#dash_first{
+	background:rgb(20,150,150);
+	padding:15px;
+	margin-bottom: 5px;
+}
+
+#dash_second_table{
+    background:rgb(220,10,20);
+	padding:15px;
+	margin-bottom: 5px;	
+	
+}
+
+#dash_third_table{
+    background:rgb(20,70,50);
+	padding:15px;
+	margin-bottom: 5px;	
+}
+
+#dash_fourth_table{
+    background:rgb(20,170,150);
+	padding:15px;
+	margin-bottom: 5px;	
+}
+
+
+#inner{
+	background:rgba(0,0,0,.7);
+	padding:10px;
+}
+
+.search_page_msg{
+	font-size:40px;
+	margin:20px;
+	font-weight:bold;
+	color:rgb(250,220,249);
+	text-shadow:3px 3px 5px black;
+}
+
+#inner_user{
+		background:rgba(0,0,0,.8);
+	     padding:20px;
+	     margin:20px;
+	     
+}
+
+#search_state_msg{
+	color:rgb(0,190,250);
+	text-shadow: 3px 3px 5px black;
+	border:2px solid black;
+	background:#333333;
+}
